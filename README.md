@@ -6,22 +6,24 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeAnSolovev&layout=compact&theme=radical)
 
-## Connect with Me
-
-- [Telegram](https://t.me/serge_solovev)
-- [VK](https://vk.com/seansolovev)
-- [Personal Website](https://seansolovev.ru)
-
 ## Projects
 
-### [EngineGP](https://github.com/EngineGPDev/EngineGP)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EngineGPDev&repo=enginegp&theme=radical)
+
 **Description:** Panel for managing game servers and hosting.
+
 **Tech Stack:** PHP, JS JQuery, CSS Bootstrap, MySQL/MariaDB, bash
 
 ## Contributions
 
 Here are some of the projects I’ve contributed to:
-- [EngineGP](https://github.com/EngineGPDev/EngineGP)
-- [TorrentPier Autoinstall](https://github.com/torrentpier/autoinstall)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=torrentpier&repo=autoinstall&theme=radical)
+
+## Connect with Me
+
+- [Telegram](https://t.me/serge_solovev)
+- [VK](https://vk.com/seansolovev)
+- [Personal Website](https://seansolovev.ru)
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or if you’d like to collaborate on a project.
