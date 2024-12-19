@@ -2,9 +2,9 @@
 
 [![SeAnSolovev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeAnSolovev&show_icons=true&theme=radical)](https://github.com/SeAnSolovev)
 
-## Top Languages
+<!--## Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeAnSolovev&layout=compact&theme=radical)](https://github.com/SeAnSolovev?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeAnSolovev&layout=compact&theme=radical)](https://github.com/SeAnSolovev?tab=repositories)-->
 
 ## Projects
 
