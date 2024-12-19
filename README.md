@@ -1,14 +1,14 @@
 ## My GitHub Stats
 
-![SeAnSolovev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeAnSolovev&show_icons=true&theme=radical)
+[![SeAnSolovev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeAnSolovev&show_icons=true&theme=radical)](https://github.com/SeAnSolovev)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeAnSolovev&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeAnSolovev&layout=compact&theme=radical)](https://github.com/SeAnSolovev?tab=repositories)
 
 ## Projects
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EngineGPDev&repo=enginegp&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EngineGPDev&repo=enginegp&theme=radical)](https://github.com/EngineGPDev/EngineGP)
 
 **Description:** Panel for managing game servers and hosting.
 
@@ -18,7 +18,7 @@
 
 Here are some of the projects I’ve contributed to:
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=torrentpier&repo=autoinstall&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=torrentpier&repo=autoinstall&theme=radical)](https://github.com/torrentpier/autoinstall)
 
 ## Connect with Me
 
