@@ -9,15 +9,14 @@
 ## Connect with Me
 
 - [Telegram](https://t.me/serge_solovev)
-- [VK](https://twitter.com/your-twitter-handle)
+- [VK](https://vk.com/seansolovev)
 - [Personal Website](https://seansolovev.ru)
 
 ## Projects
 
 ### [EngineGP](https://github.com/EngineGPDev/EngineGP)
 **Description:** Panel for managing game servers and hosting.
-
-**Tech Stack:** PHP, JS JQuery, CSS Bootstrap, MySQL/MariaDB
+**Tech Stack:** PHP, JS JQuery, CSS Bootstrap, MySQL/MariaDB, bash
 
 ## Contributions
 
