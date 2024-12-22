@@ -4,8 +4,7 @@
 
 <!--## Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeAnSolovev&layout=compact&theme=radical)](https://github.com/SeAnSolovev?tab=repositories)-->
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeAnSolovev&layout=compact&theme=radical)](https://github.com/SeAnSolovev?tab=repositories)
 ## Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EngineGPDev&repo=enginegp&theme=radical)](https://github.com/EngineGPDev/EngineGP)
@@ -26,4 +25,4 @@ Here are some of the projects I’ve contributed to:
 - [VK](https://vk.com/seansolovev)
 - [Personal Website](https://seansolovev.ru)
 
-Thank you for visiting my profile! Feel free to reach out if you have any questions or if you’d like to collaborate on a project.
+Thank you for visiting my profile! Feel free to reach out if you have any questions or if you’d like to collaborate on a project.-->
