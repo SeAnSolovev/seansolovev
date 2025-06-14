@@ -1,4 +1,9 @@
-## My GitHub Stats
+## 🔐 GPG Key
+
+- 📌 Key ID: `1AB3 1A92 7081 FD60`
+- 🔎 Fingerprint: `A622 A5A0 3E68 A3CA 3E55  A22E 1AB3 1A92 7081 FD60`
+
+## 📊 GitHub Stats
 
 [![SeAnSolovev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeAnSolovev&show_icons=true&theme=radical)](https://github.com/SeAnSolovev)
 
